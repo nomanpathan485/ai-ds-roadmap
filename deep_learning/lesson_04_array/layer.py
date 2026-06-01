@@ -9,6 +9,8 @@ weights = np.array([
 ])
 
 biases = np.array([1, 2, 3])
+#Think of bias as:
+#A learnable offset that gives the neuron flexibility.
 
 output = np.dot(weights, inputs) + biases
 
