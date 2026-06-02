@@ -10,10 +10,15 @@ This repository documents my journey learning AI from scratch.
 - Activation Functions
 - ReLU
 - Arrays and Dot Products
+- mnist
+- cnn
+  
 
 ### Machine Learning
 
 - Train Test Split
+- validation
+- curves
 
 ### TensorFlow
 
