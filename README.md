@@ -1,29 +1,33 @@
-# AI & Data Science Roadmap
+## Deep Learning Progress
 
-This repository documents my journey learning AI from scratch.
+### Completed
 
-## Topics Covered
+* Python Fundamentals
+* NumPy Basics
+* Machine Learning Fundamentals
+* Neural Networks Basics
+* MNIST Dataset
+* CNN Fundamentals
+* Conv2D
+* MaxPooling2D
+* Flatten Layer
+* Softmax Classification
+* Model Saving & Loading
+* GitHub Project Deployment
 
-### Deep Learning
+### Projects Completed
 
-- Neurons
-- Activation Functions
-- ReLU
-- Arrays and Dot Products
-- mnist
-- cnn
-  
+✅ Handwritten Digit Recognition using CNN
 
-### Machine Learning
+Repository:
+https://github.com/nomanpathan485/Handwritten-Digit-Recognition-CNN
 
-- Train Test Split
-- validation
-- curves
+### Currently Learning
 
-### TensorFlow
+* Computer Vision
+* CNN Architecture Design
+* Real-world Image Classification
 
-- TensorFlow Basics
+### Next Project
 
-## Goal
-
-Learn AI, Deep Learning, TensorFlow, PyTorch, and LLMs.
+🔜 Cats vs Dogs Image Classifier

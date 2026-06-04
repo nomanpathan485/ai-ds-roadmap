@@ -35,6 +35,8 @@ history = model.fit(
     epochs = 5,
     validation_split = 0.2
 )
+model.save("digit_model.keras")
+print("Model Saved Successfully!")
 
 test_loss, test_accuracy = model.evaluate(
     x_test,
